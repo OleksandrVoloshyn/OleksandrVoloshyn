@@ -1,4 +1,5 @@
-👋 Hi, I'm Oleksandr Voloshyn. 👋
+     👋 Hi, I'm Oleksandr Voloshyn. 👋
+Full-Stack React/Django Developer from Lviv
 
 <!---
 OleksandrVoloshyn/OleksandrVoloshyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
